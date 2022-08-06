@@ -1,2 +1,1 @@
-# open 
 # JWT encode
